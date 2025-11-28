@@ -32,3 +32,7 @@ echo $tree->render();
 
 ?>
 ```
+
+The result of the code above will create the an output that looks like this:
+
+![Example](https://raw.githubusercontent.com/darkrunedk/Family-Tree-PHP/refs/heads/main/example.png)
