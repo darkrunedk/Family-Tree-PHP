@@ -5,6 +5,8 @@ This is a helper class I made to make it easier to make family trees in SVG usin
 The way it works is you make a new instance of the FamilyTree class.
 After thay you add the members to the canvas (preferably starting from the top and working your way downwards). Each members has an id, that you will use to create the relations between the members.
 
+All you need from this project to get started is the FamilyTree.php class found inside the classes folder.
+
 ## Example
 ```PHP
 <?php
